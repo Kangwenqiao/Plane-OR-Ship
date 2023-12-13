@@ -1,0 +1,6 @@
+names: ['ship', 'plane']
+nc: 2
+
+train: datasets/images/train
+val: datasets/images/val
+
