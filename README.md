@@ -44,10 +44,6 @@ model_path: models/yolov5_weights.pth
 
 Explain how others can contribute to the project, including the development process and submission guidelines.
 
-## Version Control
-
-Use semantic versioning (SemVer), e.g., [SemVer](http://semver.org/).
-
 ## Author
 
 - Wq Kang
